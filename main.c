@@ -3,11 +3,8 @@
 int main() {
     printf("Hello World!");
     printf("This project uses the C++ language standard version.");
-    printf("ureghiurghughoiuhjgobuihtoiuhoiuhguirgbhgvrbihrgbijvghgh
-        rgiojhgr9uhg9ohughojhgojthgoithj
-        fjhnguherughuhiuvbhoiu
-        ;rkgfjfoirhguirtgghj
-        ;rfgjpijgpjgp")
+    printf("Hi supratim");
+    
         
     return 0;
 }
